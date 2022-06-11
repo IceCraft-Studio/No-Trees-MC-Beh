@@ -34,3 +34,6 @@ execute @a ~ ~ ~ fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air 0 replace sapling 3
 execute @a ~ ~ ~ fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air 0 replace sapling 4
 execute @a ~ ~ ~ fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air 0 replace sapling 5
 
+#mangrove
+execute @a ~ ~ ~ fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air 0 replace mangrove_leaves
+execute @a ~ ~ ~ fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air 0 replace mangrove_propagule

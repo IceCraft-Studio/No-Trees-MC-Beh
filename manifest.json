@@ -4,15 +4,15 @@
         "description": "Have a nice experience with this no trees challenge pack enabled! §1Made by PavelDobCZ23",
         "name": "No Trees Pack",
         "uuid": "2fd4a51c-53b2-48b6-93f0-11942fc74488",
-        "version": [ 1, 0, 0 ],
-        "min_engine_version": [ 1, 16, 100 ]
+        "version": [ 1, 2, 0 ],
+        "min_engine_version": [ 1, 17, 0 ]
     },
     "modules": [
         {
             "description": "Have a nice experience with this no trees challenge pack enabled! §1Made by PavelDobCZ23",
             "type": "data",
             "uuid": "7b156581-98cc-4cde-ab2f-9220d46b26dc",
-            "version": [1, 0, 0]
+            "version": [1, 2, 0]
         }
     ],
     "subpacks": [
