@@ -1,5 +1,11 @@
+
 {
     "format_version": 2,
+    "metadata": {
+        "authors": ["PavelDobCZ23"],
+        "url": "https://www.icecraftstudio.repl.co",
+        "license": "CC BY-NC-ND 4.0"
+    },
     "header": {
         "description": "Have a nice experience with this no trees challenge pack enabled! §1Made by PavelDobCZ23",
         "name": "No Trees Pack",
